@@ -10,7 +10,7 @@ My name is Guillaume Simo. I am a Data Scientist at In Extenso Digital in south 
 
 * [CV](docs/CV_en.pdf)
 
-* WIP [Medium](https://medium.com/@guillaume.simo) - [Personalization strategy and recommendation systems at Décathlon-canada](https://medium.com/decathlondevelopers/personalization-strategy-and-recommendation-systems-at-d%C3%A9cathlon-canada-d9cb3d37f675)
+* WIP [Medium](https://medium.com/@guillaume.simo) - [Personalization strategy and recommendation systems at Décathlon Canada](https://medium.com/decathlondevelopers/personalization-strategy-and-recommendation-systems-at-d%C3%A9cathlon-canada-d9cb3d37f675)
 
 * WIP [Kaggle](https://www.kaggle.com/guillaumes)
 
