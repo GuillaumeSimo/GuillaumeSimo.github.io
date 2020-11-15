@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to Guillaume SIMO GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/GuillaumeSimo/GuillaumeSimo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, 
+My name is Guillaume Simo. I am a Data Scientist at In Extenso Digital in south of France, Marseille area.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+* [LinkedIn](https://www.linkedin.com/in/guillaume-simo-b16b94123/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* WIP [Medium](https://medium.com/@guillaume.simo)
 
-```markdown
-Syntax highlighted code block
+* WIP [Kaggle](https://www.kaggle.com/guillaumes)
 
-# Header 1
-## Header 2
-### Header 3
+* WIP Personal projects (AI, programming...)
 
-- Bulleted
-- List
+* CV (TBD)
 
-1. Numbered
-2. List
+Feel free to contact me [my mailbox](mailto:guillaume.simo@hotmail.fr?subject=[GitHub] <your-subject>), it would be a pleasure to exchange around artificial intelligence, data science and programming with you!
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+* [guillaume.simo@hotmail.fr](mailto:guillaume.simo@hotmail.fr?subject=[GitHub] <your-subject>)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GuillaumeSimo/GuillaumeSimo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Last updated: Nov, 15th 2020
