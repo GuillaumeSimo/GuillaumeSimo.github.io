@@ -1,4 +1,4 @@
-[Go back to homepage](/../../blob/master/index.md)
+[Go back to homepage](https://guillaumesimo.github.io/)
 
 # Improve your skills
 
