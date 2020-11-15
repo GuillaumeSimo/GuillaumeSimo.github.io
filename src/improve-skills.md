@@ -2,7 +2,7 @@
 
 # Improve your skills
 
-To improve your skills in AI, you have a bunch of online resources!
+To improve your skills in AI, you have a ton of online resources!
 
 A good way could be to follow this guide [How to become a skillful Data Scientist following the Decathlon Data Science Development Program](https://medium.com/decathlondevelopers/how-to-become-a-skillful-data-scientist-decathlon-53bb738bd58) by [Alfonso Carta](https://medium.com/@alfonso.carta).
 
