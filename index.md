@@ -14,9 +14,9 @@ My name is Guillaume Simo. I am a Data Scientist at In Extenso Digital in south 
 
 * CV (TBD)
 
-Feel free to contact me [my mailbox](mailto:guillaume.simo@hotmail.fr?subject=[GitHub] your-subject), it would be a pleasure to exchange around artificial intelligence, data science and programming with you!
+Feel free to contact me [my mailbox](mailto:guillaume.simo@hotmail.fr?subject=[GitHub]%20your-subject), it would be a pleasure to exchange around artificial intelligence, data science and programming with you!
 
 
-* [guillaume.simo@hotmail.fr](mailto:guillaume.simo@hotmail.fr?subject=[GitHub] your-subject)
+* [guillaume.simo@hotmail.fr](mailto:guillaume.simo@hotmail.fr?subject=[GitHub]%20your-subject)
 
 Last updated: Nov, 15th 2020
