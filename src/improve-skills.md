@@ -1,4 +1,4 @@
-[Go back to homepage]()
+[Go back to homepage](/../../blob/master/index.md)
 
 # Improve your skills
 
