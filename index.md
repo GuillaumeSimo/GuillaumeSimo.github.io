@@ -19,7 +19,7 @@ My name is Guillaume Simo. I am a Data Scientist at In Extenso Digital in south 
 
 ## Looking for resources to improve your knowledge and skills?!
 
-[Follow this link](improve-skills.md)
+[Follow this link](src/improve-skills.md)
 
 
 ## Contact me!
