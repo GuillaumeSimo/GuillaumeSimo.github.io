@@ -1,6 +1,8 @@
 ## Welcome to Guillaume SIMO GitHub Pages
 
 Hi, 
+Thanks for visiting my page.
+
 My name is Guillaume Simo. I am a Data Scientist at In Extenso Digital in south of France, Marseille area.
 
 
@@ -13,6 +15,14 @@ My name is Guillaume Simo. I am a Data Scientist at In Extenso Digital in south 
 * WIP Personal projects (AI, programming...)
 
 * CV (TBD)
+
+
+## Looking for resources to improve your knowledge and skills?!
+
+[Follow this link](improve-skills.md)
+
+
+## Contact me!
 
 Feel free to contact me by [email](mailto:guillaume.simo@hotmail.fr?subject=[GitHub]%20your-subject) or [LinkedIn](https://www.linkedin.com/in/guillaume-simo-b16b94123/), it would be a pleasure to exchange around artificial intelligence, data science and programming with you!
 
