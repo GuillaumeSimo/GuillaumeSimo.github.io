@@ -8,13 +8,14 @@ My name is Guillaume Simo. I am a Data Scientist at In Extenso Digital in south 
 
 * [LinkedIn](https://www.linkedin.com/in/guillaume-simo-b16b94123/)
 
+* [CV](docs/CV_en.pdf)
+
 * WIP [Medium](https://medium.com/@guillaume.simo)
 
 * WIP [Kaggle](https://www.kaggle.com/guillaumes)
 
 * WIP Personal projects (AI, programming...)
 
-* CV (TBD)
 
 
 ## Looking for resources to improve your knowledge and skills?!
