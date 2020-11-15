@@ -1,4 +1,4 @@
-[Go back to homepage]()
+[Go back to homepage](/../../)
 
 # Improve your skills
 
