@@ -1,7 +1,7 @@
-## Welcome to Guillaume SIMO GitHub Pages
+## [Welcome to Guillaume SIMO GitHub Pages](https://guillaumesimo.github.io/)
 
 Hi, 
-Thanks for visiting my page.
+Thanks for visiting my GitHub Pages.
 
 My name is Guillaume Simo. I am a Data Scientist at In Extenso Digital in south of France, Marseille area.
 
