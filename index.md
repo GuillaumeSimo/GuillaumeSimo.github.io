@@ -1,4 +1,7 @@
-## [Welcome to Guillaume SIMO GitHub Pages](https://guillaumesimo.github.io/)
+---
+title: Welcome
+layout: default
+---
 
 Hi, 
 Thanks for visiting my GitHub Pages.
