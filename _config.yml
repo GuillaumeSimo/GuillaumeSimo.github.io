@@ -17,7 +17,8 @@ minima:
   # generate social links in footer
   social_links:
     linkedin: guillaume-simo-b16b94123
-    github:  GuillaumeSimo
+    github: GuillaumeSimo
+    medium: guillaume.simo
 
 
 # If you want to link only specific pages in your header, uncomment
