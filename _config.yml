@@ -1,3 +1,5 @@
 theme: minima
 header_pages:
   - src/improve-skills.md
+  social_links:
+    linkedin: linkedin_link
