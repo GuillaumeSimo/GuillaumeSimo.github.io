@@ -1,7 +1,5 @@
 theme: minima
-  social_links:
-    twitter: jekyllrb
-skin: dark
+
 header_pages:
   - src/improve-skills.md
   - index.md
