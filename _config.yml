@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+theme: minima
+  social_links:
+    github: jekyll
+    linkedin: jekyll
+    medium: medium
+header_pages:
+  - about.md
+  - portfolio.md
