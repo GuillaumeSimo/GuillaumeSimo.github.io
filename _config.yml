@@ -3,6 +3,6 @@ theme: minima
     github: jekyll
     linkedin: jekyll
     medium: medium
-header_pages:
-  - about.md
-  - portfolio.md
+  header_pages:
+    - about.md
+    - portfolio.md
