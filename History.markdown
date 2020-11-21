@@ -1,4 +1,8 @@
-## History
+---
+layout: page
+title: History
+permalink: /history/
+---
 
 ### 2020-11-17
   
