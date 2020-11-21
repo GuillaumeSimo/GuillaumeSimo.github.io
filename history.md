@@ -4,8 +4,8 @@ title: History
 permalink: /history/
 ---
 
-## date1
-comment1
+## 2020-11-17
+New design
 
-## date2
-cmment2
+## 2020-11-01
+https://www.GuillaumeSimo.github.io creation
