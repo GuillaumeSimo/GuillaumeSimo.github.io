@@ -12,15 +12,13 @@ A great source of knowledge are the YouTube conference chains!
 
 ### Python
 
-* <a href="http://example.com/" target="_blank">Hello, world!</a>
+* <a href="https://www.youtube.com/user/PythonItalia" target="_blank">EuroPython</a>
 
-* [EuroPython](https://www.youtube.com/user/PythonItalia)
+* <a href="https://www.youtube.com/user/PyConAU" target="_blank">PyCon Australia</a>
 
-* [PyCon Australia](https://www.youtube.com/user/PyConAU)
+* <a href="https://www.youtube.com/channel/UC51aOZF5nnderbuar5D5ifw" target="_blank">PyBay 2020</a>
 
-* [PyBay 2020](https://www.youtube.com/channel/UC51aOZF5nnderbuar5D5ifw)
-
-* [PyCon 2020](https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA)
+* <a href="https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA" target="_blank">PyCon 2020</a>
 
 * [PyCon 2019](https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ)
 
