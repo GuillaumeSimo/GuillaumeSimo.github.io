@@ -1,9 +1,7 @@
-## HEAD
-
 ### 2020-11-17
   
   * new template
 
-### 2020-11-xx
+### 2020-11-01
 
-  * github.io creation
+  * https://guillaumesimo.github.io creation
