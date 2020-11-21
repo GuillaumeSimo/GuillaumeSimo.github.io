@@ -12,9 +12,7 @@ A great source of knowledge are the YouTube conference chains!
 
 ### Python
 
-* <a href="https://www.youtube.com/user/PythonItalia" target="_blank">EuroPython</a>
-
-* [EuroPython](https://www.youtube.com/user/PythonItalia)
+* [EuroPython](https://www.youtube.com/user/PythonItalia){:target="_blank"}
 
 * [PyCon Australia](https://www.youtube.com/user/PyConAU)
 
