@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Improve your skills: YouTube conference chains:"
+title: "Improve your skills: YouTube conference chains"
 categories: misc
 ---
 
@@ -11,6 +11,8 @@ A great source of knowledge are the YouTube conference chains!
 ## YouTube conference chains
 
 ### Python
+
+* <a href="https://www.youtube.com/user/PythonItalia" target="_blank">EuroPython</a>
 
 * [EuroPython](https://www.youtube.com/user/PythonItalia)
 
