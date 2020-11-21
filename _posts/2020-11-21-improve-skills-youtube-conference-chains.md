@@ -20,7 +20,7 @@ A great source of knowledge are the YouTube conference chains!
 
 * [PyCon 2020](https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA)
 
-* [PyCon 2019](https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ)
+* [PyCon 2019](https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ)
 
 * [PyCon 2018](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ)
 
