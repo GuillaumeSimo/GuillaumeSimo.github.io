@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Improve your skills: YouTube conference channels"
+title: "Improve your skills: project ideas"
 categories: misc
 ---
 
@@ -8,7 +8,7 @@ categories: misc
 
 A great way to improve your knowledge is to do some personal projects!
 
-## Personal projects ideas
+## Personal project ideas
 
 ### Python
 
