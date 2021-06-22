@@ -26,6 +26,8 @@ A great source of knowledge are the YouTube conference channels!
 
 * <a href="https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw" target="_blank">PyCon 2016</a>
 
+* <a href="https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w" target="_blank">PyData</a>
+
 
 ### AI
 
