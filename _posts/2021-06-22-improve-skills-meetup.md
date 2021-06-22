@@ -6,9 +6,9 @@ categories: misc
 
 [Go back to homepage](https://guillaumesimo.github.io/)
 
-It could be interesting to participate into Meetup!
+It might be interesting to participate in Meetup!
 
-## Online courses:
+## Meetup events and groups:
 
 * <a href="https://www.meetup.com/fr-FR/find/?keywords=artificial%20intelligence" target="_blank">Meetup - Artificial Intelligence</a>
 
