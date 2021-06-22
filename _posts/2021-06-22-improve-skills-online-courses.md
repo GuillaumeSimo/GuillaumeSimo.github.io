@@ -15,3 +15,5 @@ A great source of knowledge are the online courses / certifications!
 
 
 [Go back to homepage](https://guillaumesimo.github.io/)
+
+Last updated: Jun 22, 2021
