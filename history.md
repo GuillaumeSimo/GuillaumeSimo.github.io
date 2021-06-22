@@ -5,7 +5,7 @@ permalink: /history/
 ---
 
 ## 2021-06-22
-- New pages/posts: books, online courses, project ideas
+- New pages/posts: books, online courses, project ideas, podcasts
 - Add PyData Youtube channel
 
 ## 2020-11-17
