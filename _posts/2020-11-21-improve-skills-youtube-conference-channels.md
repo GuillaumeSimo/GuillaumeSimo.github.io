@@ -36,5 +36,5 @@ A great source of knowledge are the YouTube conference channels!
 
 [Go back to homepage](https://guillaumesimo.github.io/)
 
-Last updated: Nov 22, 2020
+Last updated: Jun 22, 2021
 
