@@ -8,7 +8,7 @@ categories: misc
 
 A great source of knowledge are the YouTube conference channels!
 
-## YouTube conference chains
+## YouTube conference channels
 
 ### Python
 
