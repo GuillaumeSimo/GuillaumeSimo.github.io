@@ -21,6 +21,13 @@ A great source of knowledge are books!
 ## AI
 
 * <a href="https://web.stanford.edu/~hastie/Papers/ESLII.pdf" target="_blank">The Elements of Statistical Learning. Data Mining, Inference, and Prediction, Trevor Hastie, Robert Tibshirani, Jerome Friedman</a>
+
+
+## Engineering
+* <a href="https://abseil.io/resources/swe_at_google.2.pdf" target="_blank">Software Engineering at Google, Lessons Learned from Programming Over Time, T. Winters, T. Manshreck & H. Wright</a>
+
+
+
 [Go back to homepage](https://guillaumesimo.github.io/)
 
-Last updated: Jul 5, 2021
+Last updated: Jul 21, 2021
