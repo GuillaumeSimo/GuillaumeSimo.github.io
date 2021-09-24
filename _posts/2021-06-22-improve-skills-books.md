@@ -23,8 +23,10 @@ A great source of knowledge are books!
 * <a href="https://web.stanford.edu/~hastie/Papers/ESLII.pdf" target="_blank">The Elements of Statistical Learning. Data Mining, Inference, and Prediction, Trevor Hastie, Robert Tibshirani, Jerome Friedman</a>
 
 
-## Engineering
+## Engineering / Tech
 * <a href="https://abseil.io/resources/swe_at_google.2.pdf" target="_blank">Software Engineering at Google, Lessons Learned from Programming Over Time, T. Winters, T. Manshreck & H. Wright</a>
+* <a href="https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving/dp/1942788762" target="_blank">The Unicorn Project, Gene Kim, 2019</a>
+* <a href="https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290" target="_blank">The Phoenix Project (A Novel About IT, DevOps, and Helping Your Business Win), Gene Kim, 2018</a>
 
 
 
