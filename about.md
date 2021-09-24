@@ -7,7 +7,7 @@ permalink: /about/
 Hi, 
 Thanks for visiting my GitHub Page. The goal of this page is to share knowledge about artificial intelligence (AI), machine learning (ML), Data Science, Python programming and tech.
 
-My name is Guillaume Simo. I am a Data Scientist at In Extenso Digital in south of France, Marseille area.
+My name is Guillaume Simo. I am a Data Scientist at [Travaux.com](https://www.linkedin.com/company/travaux-com-officiel), [Werkspot](https://www.linkedin.com/company/werkspot.nl), [Instapro](https://www.linkedin.com/company/instapro), [MyHammer](https://www.linkedin.com/company/myhammer-ag/) from south of France, Marseille area.
 
 
 * [CV](docs/CV_en.pdf)
