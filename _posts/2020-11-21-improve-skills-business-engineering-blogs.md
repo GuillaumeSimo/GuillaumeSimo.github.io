@@ -12,6 +12,9 @@ A great source of knowledge are the business engineering blogs of tech companies
 
 * <a href="https://ai.googleblog.com/" target="_blank">ai.googleblog</a>
 
+* <a href="https://developers.google.com/machine-learning/guides/rules-of-ml" target="_blank">developers.google - rules-of-ml</a>
+
+
 * <a href="https://eng.uber.com/category/articles/ai/" target="_blank">eng.uber ai</a>
 
 * <a href="https://medium.com/pinterest-engineering" target="_blank">pinterest engineering</a>
