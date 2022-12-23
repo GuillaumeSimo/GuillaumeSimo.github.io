@@ -14,6 +14,11 @@ A great source of knowledge are the online courses / certifications!
 * <a href="https://stanford-cs329s.github.io/index.html#overview" target="_blank">Stanford 2021 - CS 329S: Machine Learning Systems Design</a>
 
 
+## English:
+
+* <a href="https://www.bbc.co.uk/learningenglish/" target="_blank">BBC Learning English</a>
+
+
 [Go back to homepage](https://guillaumesimo.github.io/)
 
 Last updated: Sep 24, 2021
