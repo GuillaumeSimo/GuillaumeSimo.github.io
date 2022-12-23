@@ -23,6 +23,11 @@ A great source of knowledge are books!
 * <a href="https://web.stanford.edu/~hastie/Papers/ESLII.pdf" target="_blank">The Elements of Statistical Learning. Data Mining, Inference, and Prediction, Trevor Hastie, Robert Tibshirani, Jerome Friedman</a>
 
 
+## AB testing
+
+* <a href="[https://web.stanford.edu/~hastie/Papers/ESLII.pdf](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264)" target="_blank">Trustworthy Online Controlled Experiments, Ron Kohavi</a>
+
+
 ## Engineering / Tech
 * <a href="https://abseil.io/resources/swe_at_google.2.pdf" target="_blank">Software Engineering at Google, Lessons Learned from Programming Over Time, T. Winters, T. Manshreck & H. Wright</a>
 * <a href="https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving/dp/1942788762" target="_blank">The Unicorn Project, Gene Kim, 2019</a>
