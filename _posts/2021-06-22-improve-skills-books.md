@@ -25,7 +25,7 @@ A great source of knowledge are books!
 
 ## AB testing
 
-* <a href="[https://web.stanford.edu/~hastie/Papers/ESLII.pdf](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264)" target="_blank">Trustworthy Online Controlled Experiments, Ron Kohavi</a>
+* <a href="https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264" target="_blank">Trustworthy Online Controlled Experiments, Ron Kohavi</a>
 
 
 ## Engineering / Tech
